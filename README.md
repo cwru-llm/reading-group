@@ -46,7 +46,7 @@ reading-group/
 ├── CONTRIBUTING.md         # Detailed contribution guide
 ├── README.md               # This file
 └── .github/
-    └── pull_request_template.md  # PR template for presentations
+    └── PULL_REQUEST_TEMPLATE.md  # PR template for presentations
 ```
 
 ## Quick Start for Contributors
