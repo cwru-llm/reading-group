@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2025-10-31",
+    "time": "2:00 PM - 3:00 PM",
+    "presenter": "Example Presenter",
+    "title": "Introduction to Large Language Models",
+    "abstract": "This is an example presentation entry. Replace this with your actual presentation details. This session will cover the fundamentals of LLMs, their architecture, and recent developments in the field.",
+    "links": [
+      {
+        "title": "Paper",
+        "url": "https://arxiv.org/abs/example"
+      },
+      {
+        "title": "Slides",
+        "url": "#"
+      }
+    ]
+  }
+]
+
